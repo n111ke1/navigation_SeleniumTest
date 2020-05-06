@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class navigationTest {
+public class NavigationTest {
 
     private WebDriver driver;
 
